@@ -13,7 +13,7 @@ const GitHubProfileGenerator = () => {
 
 ## ${title}
 
-${about}
+${hi}
 
 ### 🛠 Skills
 ${skills.split(',').map(skill => `- ${skill.trim()}`).join('\n')}
