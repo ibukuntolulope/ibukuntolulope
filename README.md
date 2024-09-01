@@ -5,7 +5,7 @@ I'm a Chartered Accountant passionate about data exploration, eager to continuou
 
 🔭 Recent [Certification](https://www.credly.com/go/fQ38ZvVsk8dBbwtH8xPgWA), adding another feather to my cap of expertise.
 
-- 👨‍💻 Discover all my projects [here](https://github.com/ibukuntolulope?tab=repositories).
+- 👩🏽‍💻 Discover all my projects [here](https://github.com/ibukuntolulope?tab=repositories).
 
 
 ## ⚙ Tools & Technologies
