@@ -1,5 +1,3 @@
-## Hi there 👋
-
 import React, { useState } from 'react';
 
 const GitHubProfileGenerator = () => {
@@ -80,5 +78,3 @@ Thanks for visiting my GitHub profile! Let's connect and build amazing things to
     </div>
   );
 };
-
-export default GitHubProfileGenerator;
