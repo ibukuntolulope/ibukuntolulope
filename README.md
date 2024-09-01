@@ -25,4 +25,4 @@ I'm a Chartered Accountant passionate about data exploration, eager to continuou
 
 ## 📜 Certifications
 
-[Check Here]
+[Check Here](https://www.credly.com/users/akinwale-ibukunoluwa/badges?sort=-state_updated_at&page=1) 
